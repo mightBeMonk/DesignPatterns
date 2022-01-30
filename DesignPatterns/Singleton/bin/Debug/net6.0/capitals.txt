@@ -1,0 +1,12 @@
+﻿Delhi
+50000
+Mumbai
+120000
+Noida
+12340000
+Gurgaon
+1200000
+Jakarta
+12345670
+Osaka
+12466799
